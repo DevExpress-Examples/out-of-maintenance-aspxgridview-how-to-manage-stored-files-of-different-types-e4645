@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Data.cs](./CS/DevExpress.Upload/Data.cs) (VB: [Data.vb](./VB/DevExpress.Upload/Data.vb))
+* [Default.aspx](./CS/DevExpress.Upload/Default.aspx) (VB: [Default.aspx.vb](./VB/DevExpress.Upload/Default.aspx.vb))
+* [Default.aspx.cs](./CS/DevExpress.Upload/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/DevExpress.Upload/Default.aspx.vb))
+* [DetailTemplate.cs](./CS/DevExpress.Upload/DetailTemplate.cs) (VB: [DetailTemplate.vb](./VB/DevExpress.Upload/DetailTemplate.vb))
+* [LocalHelper.cs](./CS/DevExpress.Upload/LocalHelper.cs) (VB: [LocalHelper.vb](./VB/DevExpress.Upload/LocalHelper.vb))
+<!-- default file list end -->
 # ASPxGridView - How to manage stored files of different types
 
 
